@@ -1,5 +1,4 @@
-V1.2 Auto Update System
-Tanımlama
-Help
-Add Limit and more
+V1.3 Baglanamama sorununa tam tanımlama
+Optimizasyon Grafik iyileştirmesi
+by travma
 
